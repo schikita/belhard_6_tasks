@@ -17,3 +17,4 @@ def yes_or_no(list_1: list) -> str:
 
 print(yes_or_no([1, 2, 3, 3, 4]))
 
+
